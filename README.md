@@ -1,3 +1,3 @@
 # Ссылки на проекты по дисциплине "Портирование программного обеспечения"
 
-1. Рабочая тетрадь 4. Задание 1. ["Портирование утилиты ls"]([https://www.example.com](https://github.com/DmitriiAnastasiadi/MyLs))
+1. Рабочая тетрадь 4. Задание 1. ["Портирование утилиты ls"](https://github.com/DmitriiAnastasiadi/MyLs)
