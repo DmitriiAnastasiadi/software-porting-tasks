@@ -5,4 +5,4 @@
 3. Рабочая тетрадь 3. Задание 2. ["Вывод содержимого файла"](https://github.com/DmitriiAnastasiadi/MyCat)
 4. Рабочая тетрадь 3. Задание 3. ["Потоки POSIX"](https://github.com/DmitriiAnastasiadi/PThreadTester) 
 5. Рабочая тетрадь 4. Задание 1. ["Портирование утилиты ls"](https://github.com/DmitriiAnastasiadi/MyLs)
-
+6. Рабочая тетрадь 6. Задание 2. ["Эмулятор ABI"](https://github.com/DmitriiAnastasiadi/WineABITest)
